@@ -1,0 +1,135 @@
+
+
+@media (min-width: 992px) {
+    .offset-lg-1{
+        margin-left: 1.333333%;
+    }
+    @media (min-width:1200px){
+.col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 100%;
+}
+    }
+}
+.spad {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.filter-control {
+    text-align: left;
+    margin-bottom: 45px;
+    padding-top: 32px;
+}
+
+.banner-section {
+    padding: 80px 70px;
+}
+h3{
+    font-weight: bold;
+}
+
+.filter-control ul li {
+    color:blue;
+    position:none ;
+}
+
+.product-item {
+    background-color: white;
+}
+
+body{
+    background: rgb(248, 248, 248);
+    
+}
+
+.hero-items .single-hero-items h1 {
+	color:white;
+  animation: single-hero-items h1  is ease-in-out infinite alternate;
+}
+
+.bx-user:before {
+    content: "\eec6";
+}
+.pi-pic img {
+  width: 100%;
+}
+
+.hero-items .single-hero-items span {
+  color:turquoise;
+  font-weight: bold;
+}
+P{
+  color: white;
+}
+
+.hero-items .off-card h2 {
+  font-size: 20px;
+}
+
+.hero-items .off-card h2 span {
+  font-size: 20px;
+}
+
+.primary-btn {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 12px 30px;
+  color: #ffffff;
+  background: #e7ab3c;
+  text-transform: uppercase;
+  
+}
+
+.product-disc {
+  background-color: #007bff12;
+  border-radius: 10%;
+}
+
+.inner-header .advanced-search .input-group {
+  max-width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 992px){
+.col-lg-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 45.333333%;
+    max-width: 45.333333%;
+}
+}
+
+.nav-item .nav-menu li {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.inner-header .advanced-search {
+  margin-left: 100px;
+}
+
+.footer-social li{
+  margin-bottom: 5px;
+}
+
+.fa{
+  color: blue;
+  font-size:20px;
+}
+
+.copyright-text{
+  padding-left: 340px;
+  font-size: 30px;
+}
+
+.rights-agritech{
+  font-size: 20px;
+  color: white;
+}
+
+.agri-tech{
+  color:lightblue;
+  font-weight: bold;
+}
